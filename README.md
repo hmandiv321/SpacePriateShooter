@@ -1,4 +1,4 @@
-# How To run
+# How To run (Only for windows)
 1. Download zip file and extract
 2. run the coscProject3D.exe
 
